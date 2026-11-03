@@ -35,11 +35,11 @@ The project includes five visualizations:
 5. Top genres
 
 ## Key Findings
-- Movies make up approximately 72.6% of the dataset.
-- TV Shows account for approximately 27.4%.
-- Missing values are most prominent in the director column.
-- The dataset contains content from various release years.
-- Family, Animation, and Comedy are among the most prevalent genres.
+1. Movies account for 72.6% of the dataset, while TV Shows make up 27.4%.
+2. The dataset contains more titles released in recent years, especially around 2015–2021.
+3. TV-G is the most common content rating, followed by TV-PG.
+4. The United States is the most frequently listed country in the dataset.
+5. Family is the most common genre, followed by Animation and Comedy.
 
 ## Repository Contents
 - `DS1_Disney__EDA.ipynb` — EDA notebook
