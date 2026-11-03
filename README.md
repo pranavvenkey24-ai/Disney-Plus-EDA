@@ -41,12 +41,6 @@ The project includes five visualizations:
 - The dataset contains content from various release years.
 - Family, Animation, and Comedy are among the most prevalent genres.
 
-## How to Use
-1. Download the notebook and dataset from this repository.
-2. Open the notebook using Google Colab or Jupyter Notebook.
-3. Ensure the CSV file is in the correct location.
-4. Run the notebook cells sequentially.
-
 ## Repository Contents
 - `DS1_Disney__EDA.ipynb` — EDA notebook
 - `disney_plus_titles.csv` — Dataset
